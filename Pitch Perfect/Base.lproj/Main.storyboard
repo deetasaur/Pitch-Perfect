@@ -110,20 +110,20 @@
                                 <exclude reference="m6G-Dz-X4H"/>
                             </mask>
                             <mask key="constraints">
-                                <exclude reference="euP-4Z-fe6"/>
-                                <exclude reference="rVJ-zu-FwZ"/>
-                                <exclude reference="g5z-jN-tE7"/>
-                                <exclude reference="y5k-nQ-bJc"/>
-                                <exclude reference="3sU-Ew-Y4z"/>
-                                <exclude reference="eTi-AD-lRn"/>
+                                <exclude reference="pyh-cb-kie"/>
                                 <exclude reference="47F-38-UYx"/>
                                 <exclude reference="aBs-y1-pjO"/>
+                                <exclude reference="euP-4Z-fe6"/>
+                                <exclude reference="rVJ-zu-FwZ"/>
                                 <exclude reference="JQb-Md-0mw"/>
                                 <exclude reference="tyR-9X-jWY"/>
                                 <exclude reference="B1l-UC-e49"/>
                                 <exclude reference="J6w-eV-S3I"/>
+                                <exclude reference="3sU-Ew-Y4z"/>
+                                <exclude reference="eTi-AD-lRn"/>
+                                <exclude reference="g5z-jN-tE7"/>
+                                <exclude reference="y5k-nQ-bJc"/>
                                 <exclude reference="lAz-23-M43"/>
-                                <exclude reference="pyh-cb-kie"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
@@ -137,20 +137,20 @@
                                 <include reference="m6G-Dz-X4H"/>
                             </mask>
                             <mask key="constraints">
-                                <include reference="euP-4Z-fe6"/>
-                                <include reference="rVJ-zu-FwZ"/>
-                                <include reference="g5z-jN-tE7"/>
-                                <include reference="y5k-nQ-bJc"/>
-                                <include reference="3sU-Ew-Y4z"/>
-                                <include reference="eTi-AD-lRn"/>
+                                <include reference="pyh-cb-kie"/>
                                 <include reference="47F-38-UYx"/>
                                 <include reference="aBs-y1-pjO"/>
+                                <include reference="euP-4Z-fe6"/>
+                                <include reference="rVJ-zu-FwZ"/>
                                 <include reference="JQb-Md-0mw"/>
                                 <include reference="tyR-9X-jWY"/>
                                 <include reference="B1l-UC-e49"/>
                                 <include reference="J6w-eV-S3I"/>
+                                <include reference="3sU-Ew-Y4z"/>
+                                <include reference="eTi-AD-lRn"/>
+                                <include reference="g5z-jN-tE7"/>
+                                <include reference="y5k-nQ-bJc"/>
                                 <include reference="lAz-23-M43"/>
-                                <include reference="pyh-cb-kie"/>
                             </mask>
                         </variation>
                     </view>
@@ -185,9 +185,6 @@
                                 <fontDescription key="fontDescription" name="STHeitiSC-Light" family="Heiti SC" pointSize="14"/>
                                 <color key="textColor" red="0.82373046875" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
-                                <variation key="widthClass=compact" misplaced="YES">
-                                    <rect key="frame" x="161" y="371" width="78" height="14"/>
-                                </variation>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NPi-Wo-9CQ">
                                 <rect key="frame" x="-23" y="-15" width="46" height="30"/>
