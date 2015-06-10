@@ -318,10 +318,9 @@
                     <navigationItem key="navigationItem" title="Record" id="Faj-bK-Pgo"/>
                     <connections>
                         <outlet property="microphone" destination="7aQ-WO-4qV" id="bRY-XE-CYP"/>
-                        <outlet property="pauseLabel" destination="IHC-i9-Mk0" id="aEj-md-tyD"/>
                         <outlet property="pauseRecordingButton" destination="eJl-GD-de3" id="LBR-d2-J6o"/>
                         <outlet property="recordingButton" destination="0yM-Tz-xPa" id="0TV-IO-Vb2"/>
-                        <outlet property="recordingLabel" destination="9G7-28-gtG" id="Pfr-X6-0UC"/>
+                        <outlet property="recordingLabel" destination="9G7-28-gtG" id="hf8-ZL-CTa"/>
                         <outlet property="resumeRecordingButton" destination="p1V-Qw-44l" id="T0g-Ih-5da"/>
                         <outlet property="stopRecordingButton" destination="NPi-Wo-9CQ" id="P2t-Rl-GOa"/>
                         <outlet property="tapToRecord" destination="EmV-FS-nNN" id="Leb-tf-Mk2"/>
